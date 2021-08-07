@@ -2,6 +2,7 @@ body {
   background-color: #e5e4e2;
   max-width: 800px;
   text-align: center;
+  margin: 0 auto;
 }
 a {
   margin: 8px;
