@@ -3,16 +3,20 @@ body {
   max-width: 800px;
   text-align: center;
   margin: 0 auto;
+  font-family: Arial, Helvetica, sans-serif;
 }
 a {
-  margin: 8px;
+  padding: 6px 10px;
+  margin: 30px 6px;
   text-decoration: none;
+  font-size: 14px;
 }
 a:hover {
-  text-decoration: underline;
+  background-color: yellow;
+  border-radius: 4px;
 }
 .bowl-img {
   max-width: 50%;
-  margin: 0 auto;
+  margin: 0 auto 20px;
   border-radius: 4px;
 }
