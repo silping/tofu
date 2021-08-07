@@ -1,0 +1,17 @@
+body {
+  background-color: #f9f9f9;
+  max-width: 800px;
+  text-align: center;
+}
+a {
+  margin: 8px;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+.bowl-img {
+  max-width: 50%;
+  margin: 0 auto;
+  border-radius: 4px;
+}
